@@ -1,1 +1,1 @@
-# E8-
+# E8- Após discussão em sala foi decidido a troca de ideia do projeto em seguida já ajustado todas as funcionalidades. Prossigo com o estudo em Angular e Javascript para que os trabalhos sejam iniciados assim que a divisão de tarefas for feita! 
